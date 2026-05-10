@@ -29,3 +29,7 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - z-index
 - overflow
 - Media Queries
+
+## **📘 Class 10 — Introduction to JS**
+
+-
