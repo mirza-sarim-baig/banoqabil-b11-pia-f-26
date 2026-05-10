@@ -18,3 +18,14 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - containers
 - height & width
 - display flex
+
+## **📘 Class 7 — Apple Clone**
+
+- Understanding layout and cloning a prebuild site
+
+## **📘 Class 8 — Positions & media queries**
+
+- fixed, absolute, sticky, relative
+- z-index
+- overflow
+- Media Queries
