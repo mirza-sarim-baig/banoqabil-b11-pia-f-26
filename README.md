@@ -32,4 +32,13 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 
 ## **📘 Class 10 — Introduction to JS**
 
--
+- console
+- variables
+- data types
+- user input using prompt
+
+## **📘 Class 11 — JS**
+
+- If else conditions
+- objects
+- comparision operators
