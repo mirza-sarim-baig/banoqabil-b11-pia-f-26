@@ -37,8 +37,17 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - data types
 - user input using prompt
 
-## **📘 Class 11 — JS**
+## **📘 Class 11 — Conditional Statements**
 
 - If else conditions
 - objects
 - comparision operators
+
+## **📘 Class 12 — Conditions & Arrays**
+
+- If else
+- Array
+
+## **📘 Class 13 — Array & Loops**
+
+- If
