@@ -50,4 +50,11 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 
 ## **📘 Class 13 — Array & Loops**
 
-- If
+- For loop
+- Login user logiv
+
+## **📘 Class 14 — Functions & DOM**
+
+- Functions
+- Dom Manipulation
+- Chaning element text, html, styles

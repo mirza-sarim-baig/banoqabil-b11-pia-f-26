@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .toggleBtn {
+        position: relative;
+        height: 10px;
+        width: 20px;
+      }
+      .btn-container {
+        height: 100%;
+        width: 100%;
+        border-radius: 50px;
+        background-color: rgb(50, 127, 152);
+      }
+      .btn-circle {
+        position: absolute;
+        top: 1px;
+        right: 1px;
+        display: inline-block;
+        height: 8px;
+        width: 8px;
+        border-radius: 100%;
+        background-color: rgb(255, 255, 255);
+      }
+      img {
+        height: 100px;
+        width: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Functions</h1>
+
+    <!-- <img
+      src="https://toppng.com/uploads/preview/light-bulb-on-off-png-11553940319kdxsp3rf0i.png"
+      alt=""
+    /> -->
+    <img
+      src="https://toppng.com/uploads/preview/light-bulb-on-off-png-115539402943y50vxr5yi.png"
+      alt="bulb"
+      id="bulbImg"
+    />
+    <button onclick="turnBulbOn()">on</button>
+    <button onclick="turnBulbOff()">off</button>
+
+    <button onclick="greet()">Click Me</button>
+    <div id="container"></div>
+    <h2 id="displayName">Display name</h2>
+
+    <button onclick="changeNameToSarim()">Sarim</button>
+    <button onclick="changeNameToHabib()">Habib</button>
+
+    <div class="toggleBtn">
+      <div class="btn-container"></div>
+      <span class="btn-circle"></span>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <script src="app.js"></script>
+  </body>
+</html>
