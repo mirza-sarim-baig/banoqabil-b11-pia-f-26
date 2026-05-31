@@ -58,3 +58,8 @@ A structured and beginner-friendly roadmap to learning the fundamentals of web d
 - Functions
 - Dom Manipulation
 - Chaning element text, html, styles
+
+## **📘 Class 16 — Functions & DOM**
+
+- Handling Forms
+- Getting data from forms converting it into array of objects, then saving it to local storage

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Handling Forms</h1>
+
+    <form onsubmit="getUserData(event)">
+      <label>
+        Name:
+        <input type="text" id="name" placeholder="Enter your name" />
+      </label>
+      <br />
+      <br />
+      <label>
+        Email:
+        <input type="email" id="email" placeholder="Enter your email" />
+      </label>
+      <br />
+      <br />
+      <label>
+        Password:
+        <input
+          type="password"
+          id="password"
+          placeholder="Enter your password"
+        />
+      </label>
+      <br />
+      <br />
+      <label>
+        Male:
+        <input type="radio" name="gender" value="Male" />
+      </label>
+
+      <label>
+        Female:
+        <input type="radio" name="gender" value="Female" />
+      </label>
+
+      <label>
+        Other:
+        <input type="radio" name="gender" value="Other" />
+      </label>
+      <br />
+      <br />
+      <input type="submit" />
+    </form>
+
+    <h1>head1</h1>
+    <h1>head2</h1>
+
+    <script src="app.js"></script>
+  </body>
+</html>
